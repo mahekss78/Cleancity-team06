@@ -1,0 +1,1073 @@
+[
+  {
+    "festival_id": "fest_001",
+    "festival_name": "Ganesh Chaturthi",
+    "religion": "Hindu",
+    "festival_type": "religious",
+    "states_applicable": [
+      "Maharashtra",
+      "Karnataka",
+      "Telangana",
+      "Andhra Pradesh",
+      "Goa",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Chhattisgarh",
+      "Tamil Nadu"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-09-07",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-08-27",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-09-15",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-09-04",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-08-23",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-09-12",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-09-01",
+        "day_of_week": "Sunday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_002",
+    "festival_name": "Diwali",
+    "religion": "Hindu",
+    "festival_type": "religious",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-11-01",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-10-20",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-11-08",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-10-29",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-10-17",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-11-05",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-10-26",
+        "day_of_week": "Saturday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_003",
+    "festival_name": "Holi",
+    "religion": "Hindu",
+    "festival_type": "religious",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-03-25",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-03-14",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-03-04",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-03-22",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-03-11",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-03-01",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-03-20",
+        "day_of_week": "Wednesday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_004",
+    "festival_name": "Durga Puja",
+    "religion": "Hindu",
+    "festival_type": "religious",
+    "states_applicable": [
+      "West Bengal",
+      "Odisha",
+      "Assam",
+      "Bihar",
+      "Tripura",
+      "Jharkhand",
+      "Meghalaya"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-10-09",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-09-28",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-10-17",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-10-07",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-09-25",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-10-14",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-10-04",
+        "day_of_week": "Friday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_005",
+    "festival_name": "Navratri",
+    "religion": "Hindu",
+    "festival_type": "religious",
+    "states_applicable": [
+      "Gujarat",
+      "Maharashtra",
+      "Rajasthan",
+      "Delhi",
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Karnataka",
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Haryana",
+      "Punjab"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-10-03",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-09-22",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-10-11",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-09-30",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-09-19",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-10-08",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-09-28",
+        "day_of_week": "Saturday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_006",
+    "festival_name": "Chhath Puja",
+    "religion": "Hindu",
+    "festival_type": "religious",
+    "states_applicable": [
+      "Bihar",
+      "Jharkhand",
+      "Uttar Pradesh",
+      "Delhi",
+      "West Bengal"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-11-07",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-10-26",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-11-14",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-11-04",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-10-23",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-11-11",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-11-01",
+        "day_of_week": "Friday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_007",
+    "festival_name": "Makar Sankranti",
+    "religion": "Hindu",
+    "festival_type": "cultural",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "solar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-01-15",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-01-14",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-01-14",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-01-14",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-01-15",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-01-14",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-01-14",
+        "day_of_week": "Monday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_008",
+    "festival_name": "Raksha Bandhan",
+    "religion": "Hindu",
+    "festival_type": "religious",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-08-19",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-08-09",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-28",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-08-17",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-08-06",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-08-25",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-08-14",
+        "day_of_week": "Wednesday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_009",
+    "festival_name": "Janmashtami",
+    "religion": "Hindu",
+    "festival_type": "religious",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-08-26",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-08-16",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-09-04",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-08-25",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-08-13",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-09-01",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-08-21",
+        "day_of_week": "Wednesday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_010",
+    "festival_name": "Pongal",
+    "religion": "Hindu",
+    "festival_type": "cultural",
+    "states_applicable": [
+      "Tamil Nadu",
+      "Puducherry",
+      "Andhra Pradesh"
+    ],
+    "calendar_type": "solar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-01-15",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-01-14",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-01-14",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-01-15",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-01-15",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-01-14",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-01-14",
+        "day_of_week": "Monday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_011",
+    "festival_name": "Onam",
+    "religion": "Hindu",
+    "festival_type": "cultural",
+    "states_applicable": [
+      "Kerala"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-09-15",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-09-05",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-26",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-09-14",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-09-02",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-08-22",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-09-11",
+        "day_of_week": "Wednesday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_012",
+    "festival_name": "Bihu",
+    "religion": "Hindu",
+    "festival_type": "cultural",
+    "states_applicable": [
+      "Assam"
+    ],
+    "calendar_type": "solar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-04-14",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-04-14",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-04-14",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-04-14",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-04-14",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-04-14",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-04-14",
+        "day_of_week": "Sunday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_013",
+    "festival_name": "Ugadi",
+    "religion": "Hindu",
+    "festival_type": "cultural",
+    "states_applicable": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Telangana"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-04-09",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-03-30",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-03-19",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-04-07",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-03-27",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-03-16",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-04-05",
+        "day_of_week": "Friday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_014",
+    "festival_name": "Eid al-Fitr",
+    "religion": "Muslim",
+    "festival_type": "religious",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-04-11",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-03-31",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-03-20",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-03-10",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-02-27",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-02-15",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-02-05",
+        "day_of_week": "Tuesday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_015",
+    "festival_name": "Eid al-Adha",
+    "religion": "Muslim",
+    "festival_type": "religious",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-06-17",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-06-07",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-05-27",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-05-17",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-05-05",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-04-24",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-04-14",
+        "day_of_week": "Sunday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_016",
+    "festival_name": "Muharram",
+    "religion": "Muslim",
+    "festival_type": "religious",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-07-17",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-07-06",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-06-26",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-06-15",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-06-04",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-05-24",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-05-14",
+        "day_of_week": "Tuesday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_017",
+    "festival_name": "Guru Nanak Jayanti",
+    "religion": "Sikh",
+    "festival_type": "religious",
+    "states_applicable": [
+      "Punjab",
+      "Haryana",
+      "Delhi",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "All India"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-11-15",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-11-05",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-11-24",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-11-14",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-11-02",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-11-21",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-11-11",
+        "day_of_week": "Monday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_018",
+    "festival_name": "Christmas",
+    "religion": "Christian",
+    "festival_type": "religious",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "fixed",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-12-25",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-25",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-12-25",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-12-25",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-12-25",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-12-25",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-12-25",
+        "day_of_week": "Wednesday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_019",
+    "festival_name": "Buddha Purnima",
+    "religion": "Buddhist",
+    "festival_type": "religious",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "lunar",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-05-23",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-05-12",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-05-01",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-05-20",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-05-09",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-05-28",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-05-17",
+        "day_of_week": "Friday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_020",
+    "festival_name": "Republic Day",
+    "religion": "Secular",
+    "festival_type": "national",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "fixed",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-01-26",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-01-26",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-01-26",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-01-26",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-01-26",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-01-26",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-01-26",
+        "day_of_week": "Saturday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_021",
+    "festival_name": "Independence Day",
+    "religion": "Secular",
+    "festival_type": "national",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "fixed",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-08-15",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-08-15",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-15",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-08-15",
+        "day_of_week": "Sunday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-08-15",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-08-15",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-08-15",
+        "day_of_week": "Thursday"
+      }
+    ]
+  },
+  {
+    "festival_id": "fest_022",
+    "festival_name": "Gandhi Jayanti",
+    "religion": "Secular",
+    "festival_type": "national",
+    "states_applicable": [
+      "All India"
+    ],
+    "calendar_type": "fixed",
+    "dates": [
+      {
+        "year": 2024,
+        "date": "2024-10-02",
+        "day_of_week": "Wednesday"
+      },
+      {
+        "year": 2025,
+        "date": "2025-10-02",
+        "day_of_week": "Thursday"
+      },
+      {
+        "year": 2026,
+        "date": "2026-10-02",
+        "day_of_week": "Friday"
+      },
+      {
+        "year": 2027,
+        "date": "2027-10-02",
+        "day_of_week": "Saturday"
+      },
+      {
+        "year": 2028,
+        "date": "2028-10-02",
+        "day_of_week": "Monday"
+      },
+      {
+        "year": 2029,
+        "date": "2029-10-02",
+        "day_of_week": "Tuesday"
+      },
+      {
+        "year": 2030,
+        "date": "2030-10-02",
+        "day_of_week": "Wednesday"
+      }
+    ]
+  }
+]
